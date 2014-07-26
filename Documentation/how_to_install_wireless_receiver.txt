@@ -1,0 +1,15 @@
+===============================================
+To install Wireless Xbox 360 Remote Receiver
+===============================================
+1. Install the driver software here.
+2. Plug the wireless receiver into one of your computer's USB ports.
+3. If you receive an error such as "There was a problem installing your device", follow these steps:
+
+	3.1 Go to Device Manager.
+	3.2 You will see an "unrecognised hardware" section
+	3.3 Right click on it and select "Update Driver Software".
+	3.4 choose to manually select driver from the driver list.
+	3.5 Search for Microsoft, then Xbox 360 controller.
+	3.6 Sleect the Play and Charge Kit option.
+	3.7 Click Install.
+	3.8 You may need to reboot your computer for the changes to take affect.
