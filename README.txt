@@ -63,7 +63,9 @@ It is known to listen for the 0x0400 keypress event.
 
 One brilliant sir figured it out and has a working solution.
 I have included it in this repository. See the folder
-button_on_360_guide_v5.zip.
+button_on_360_guide_v5 in the root directory. 
+
+The file you are interested in is /src/main.cpp. Line 191.
 
 I would give credit to him / her, but all I know is their
 Reddit username. They failed to comment the code with their
