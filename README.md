@@ -39,7 +39,7 @@ Some willpower.
 I'm not sure how to use the GitHub issue log, so I'll
 keep a list here.
 
-1. This program doesn't ACTUALLY map to the Guide button.
+This program doesn't ACTUALLY map to the Guide button (I know, I lied).
 It's very much a work in progress.
 
 Microsoft likes to hide this information from its devs.
