@@ -1,3 +1,6 @@
+// Part of button_on_360_guide by https://github.com/pinumbernumber
+// Distributed under the highly permissive WTFPL, see COPYING.txt
+
 #pragma once
 
 #include <string>
