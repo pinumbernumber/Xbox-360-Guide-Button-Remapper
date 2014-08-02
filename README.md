@@ -1,8 +1,6 @@
-====================================================
-Xbox 360 Guide Button Remapper v 0.1
+#Xbox 360 Guide Button Remapper v 0.1
 
-By Jacob Coddaire
-====================================================
+###By Jacob Coddaire
 
 Xbox 360 Guide Button Remapper is a lightweight
 Windows application that runs completely in the 
@@ -20,28 +18,24 @@ simply "set it and forget it".
 Please see the Known Issues section before downloading.
 
 
-====================================================
-System Requirements
-====================================================
+##System Requirements
 Windows 7, 8, or 8.1. 
 
-====================================================
-Setup Instructions
-====================================================
+Some hard drive space.
+
+Some RAM.
+
+Some willpower.
+
+##Setup Instructions
 1. Download the .exe file. (or the source and publish it).
 2. Run the installer.
-3. Add the program file to your startup folder.
-For instructions, see this link:
-
-http://www.sevenforums.com/tutorials/1401-startup-programs-change.html
-
+3. Add the program file to your startup folder. For instructions, see this link: http://www.sevenforums.com/tutorials/1401-startup-programs-change.html
 4. Run the application.
 5. Set your keys.
 6. Begin using the app!
 
-====================================================
-Known Issues
-====================================================
+##Known Issues
 I'm not sure how to use the GitHub issue log, so I'll
 keep a list here.
 
@@ -77,9 +71,7 @@ his listen code into my existing solution file.
 
 That would be awesome indeed. 
 
-====================================================
-Feedback and Bugs
-====================================================
+##Feedback and Bugs
 I appreciate any and all feedback! If you would like
 a feature to be added, let me know. If you find a bug,
 please let me know. I like to kill those as quickly as 
